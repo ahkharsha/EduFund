@@ -1,6 +1,6 @@
 # 🌟 **Edu Fund** - Revolutionizing Crowdfunding
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://edu-fund.vercel.app/)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://edufund-oc.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/EduFund)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
@@ -15,7 +15,7 @@
 ## 🚀 **Deployment**
 
 The platform is live and can be accessed at:  
-<br>**🔗 [Edu Fund Testnet (Deployed) - edu-fund.vercel.app](https://edu-fund.vercel.app/)**<br><br>
+<br>**🔗 [Edu Fund Testnet (Deployed) - edufund-oc.vercel.app](https://edufund-oc.vercel.app/)**<br><br>
 
 ---
 
@@ -151,7 +151,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [Edu Fund](https://edu-fund.vercel.app/)
+- **Project Website**: [Edu Fund](https://edufund-oc.vercel.app/)
 
 ---
 
